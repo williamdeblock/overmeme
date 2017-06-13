@@ -1,1 +1,2 @@
 # overmeme
+<DOCTYPE HTML>
